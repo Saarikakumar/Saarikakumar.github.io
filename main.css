@@ -1,0 +1,10 @@
+.image1 {
+
+  width: 150px;
+  position: fixed;
+  left: 877px;
+  top: 0;
+  height: 150px;
+  margin: 3em auto;
+  max-width: 100%;
+}
