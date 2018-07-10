@@ -1,10 +1,7 @@
 .image1 {
 
-  width: 150px;
+  width: 300px;
   position: fixed;
-  left: 877px;
-  top: 0;
-  height: 150px;
-  margin: 3em auto;
+  height: 300px;
   max-width: 100%;
 }
