@@ -3,16 +3,12 @@
   width: 200px;
   height: 218px;
   max-width: 100%;
-  position: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
 
 .topnav  {
     color: black;
