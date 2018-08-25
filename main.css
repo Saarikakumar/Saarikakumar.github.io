@@ -1,19 +1,19 @@
 .image1 {
 
-  width: 340px;
+  width: 300px;
   height: 220px;
   max-width: 90%;
-  position: relative;
+  position: center;
 }
 
-    
+
 .topnav  {
     color: black;
     color: #333;
     text-align: center;
     text-decoration: none;
-    
-    
+
+
 }
 
 .topnav a {
