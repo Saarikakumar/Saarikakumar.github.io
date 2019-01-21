@@ -29,3 +29,7 @@
     color: blue;
     text-decoration: none;
 }
+
+p {
+  font-size: 0.875em; /* 14px/16=0.875em */
+}
